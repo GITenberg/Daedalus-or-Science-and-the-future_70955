@@ -1,0 +1,27 @@
+_repo: Daedalus-or-Science-and-the-future_70955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haldane, J. B. S.
+    gutenberg_agent_id: '56009'
+    url: http://www.gutenberg.org/2009/agents/56009
+description: ''
+gutenberg_issued: '2023-06-10'
+identifiers:
+  gutenberg: '70955'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015026649544
+pgterms:marc905: 20210514075641haldane
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Tim Lindell, Jwala Kumar Sista, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bE. P. Dutton, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Daedalus; or, Science and the future
+url: http://www.gutenberg.org/ebooks/70955
