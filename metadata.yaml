@@ -1,11 +1,16 @@
 _repo: Daedalus-or-Science-and-the-future_70955
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70955-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Haldane, J. B. S.
     gutenberg_agent_id: '56009'
     url: http://www.gutenberg.org/2009/agents/56009
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70955#Daedalus-or-Science-and-the-future
 gutenberg_issued: '2023-06-10'
 identifiers:
   gutenberg: '70955'
